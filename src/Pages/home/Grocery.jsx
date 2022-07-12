@@ -1,6 +1,6 @@
 import React from "react";
 
-const Grocery = () => {
+const Grocery=() => {
   return (
     <div className=" bg-[#ffffff] flex-col">
       <div className="flex justify-center my-8 text-2xl font-bold">
@@ -90,6 +90,6 @@ const Grocery = () => {
   );
 };
 
-There are many ways that i could get successful but i want it in the hard way a
+
 
 export default Grocery;

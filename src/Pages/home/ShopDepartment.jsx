@@ -1,6 +1,6 @@
 import React from "react";
 
-const ShopDepartment = () => {
+const ShopDepartment=() => {
   return (
     <div className=" bg-[#ffffff] flex-col">
       <div className="flex justify-center my-8 text-2xl font-bold">
@@ -23,7 +23,7 @@ const ShopDepartment = () => {
             <div className="flex h-4 items-center font-medium text-sm text-blue-600  justify-center my-3">
               Outdoor Living
             </div>{" "}
-            main li
+
           </div>
         </div>
         <div className="flex">
