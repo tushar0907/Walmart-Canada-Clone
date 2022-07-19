@@ -7,7 +7,7 @@ const ShopDepartment=() => {
         Shop Departments
       </div>
       <div className="flex justify-center items-center">
-        <div className="flex h-32 my-6 mx-2 w-24 flex-col">
+        <div className="flex h-32 my-6 mx-2 w-24 flex-col md:h-80 md:w-72">
           <div className="flex justify-center items-center flex-1 h-32 rounded-full bg-green-50">
             Image Here
           </div>
@@ -16,18 +16,17 @@ const ShopDepartment=() => {
           </div>
         </div>
         <div className="flex">
-          <div className="flex h-32 mx-2 w-24 flex-col">
+          <div className="flex h-32 mx-2 w-24 flex-col md:h-80 md:w-72">
             <div className="flex justify-center items-center flex-1 h-32 rounded-full bg-green-50">
               Image Here
             </div>
             <div className="flex h-4 items-center font-medium text-sm text-blue-600  justify-center my-3">
               Outdoor Living
             </div>{" "}
-
           </div>
         </div>
         <div className="flex">
-          <div className="flex h-32 mx-2 w-24 flex-col">
+          <div className="flex h-32 mx-2 w-24 flex-col md:h-80 md:w-72">
             <div className="flex justify-center items-center flex-1 h-32 rounded-full bg-green-50">
               Image Here
             </div>
@@ -38,7 +37,7 @@ const ShopDepartment=() => {
         </div>
       </div>
       <div className="flex justify-center items-center">
-        <div className="flex h-32 my-6 mx-2 w-24 flex-col">
+        <div className="flex h-32 my-6 mx-2 w-24 flex-col md:h-80 md:w-72">
           <div className="flex justify-center items-center flex-1 h-32 rounded-full bg-green-50">
             Image Here
           </div>
@@ -47,7 +46,7 @@ const ShopDepartment=() => {
           </div>
         </div>
         <div className="flex">
-          <div className="flex h-32 mx-2 w-24 flex-col">
+          <div className="flex h-32 mx-2 w-24 flex-col md:h-80 md:w-72">
             <div className="flex justify-center items-center flex-1 h-32 rounded-full bg-green-50">
               Image Here
             </div>
@@ -57,7 +56,7 @@ const ShopDepartment=() => {
           </div>
         </div>
         <div className="flex">
-          <div className="flex h-32 mx-2 w-24 flex-col">
+          <div className="flex h-32 mx-2 w-24 flex-col md:h-80 md:w-72">
             <div className="flex justify-center items-center flex-1 h-32 rounded-full bg-green-50">
               Image Here
             </div>
@@ -68,7 +67,7 @@ const ShopDepartment=() => {
         </div>
       </div>
       <div className="flex justify-center items-center">
-        <div className="flex h-32 my-6 mx-2 w-24 flex-col">
+        <div className="flex h-32 my-6 mx-2 w-24 flex-col md:h-80 md:w-72">
           <div className="flex justify-center items-center flex-1 h-32 rounded-full bg-green-50">
             Image Here
           </div>
@@ -77,7 +76,7 @@ const ShopDepartment=() => {
           </div>
         </div>
         <div className="flex">
-          <div className="flex h-32 mx-2 w-24 flex-col">
+          <div className="flex h-32 mx-2 w-24 flex-col md:h-80 md:w-72">
             <div className="flex justify-center items-center flex-1 h-32 rounded-full bg-green-50">
               Image Here
             </div>
@@ -87,7 +86,7 @@ const ShopDepartment=() => {
           </div>
         </div>
         <div className="flex">
-          <div className="flex h-32 mx-2 w-24 flex-col">
+          <div className="flex h-32 mx-2 w-24 flex-col md:h-80 md:w-72">
             <div className="flex justify-center items-center flex-1 h-32 rounded-full bg-green-50">
               Image Here
             </div>

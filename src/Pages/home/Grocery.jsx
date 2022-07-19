@@ -7,7 +7,7 @@ const Grocery=() => {
         Shop Grocery
       </div>
       <div className="flex justify-center items-center">
-        <div className="flex h-32 my-6 mx-2 w-24 flex-col">
+        <div className="flex h-32 my-6 mx-2 w-24 flex-col md:h-80 md:w-72">
           <div className="flex justify-center items-center flex-1 h-32 rounded-full bg-green-50">
             Image Here
           </div>
@@ -16,7 +16,7 @@ const Grocery=() => {
           </div>
         </div>
         <div className="flex">
-          <div className="flex h-32 mx-2 w-24 flex-col">
+          <div className="flex h-32 mx-2 w-24 flex-col md:h-80 md:w-72">
             <div className="flex justify-center items-center flex-1 h-32 rounded-full bg-green-50">
               Image Here
             </div>
@@ -26,7 +26,7 @@ const Grocery=() => {
           </div>
         </div>
         <div className="flex">
-          <div className="flex h-32 mx-2 w-24 flex-col">
+          <div className="flex h-32 mx-2 w-24 flex-col md:h-80 md:w-72">
             <div className="flex justify-center items-center flex-1 h-32 rounded-full bg-green-50">
               Image Here
             </div>
@@ -37,7 +37,7 @@ const Grocery=() => {
         </div>
       </div>
       <div className="flex justify-center items-center">
-        <div className="flex h-32 my-6 mx-2 w-24 flex-col">
+        <div className="flex h-32 my-6 mx-2 w-24 flex-col md:h-80 md:w-72">
           <div className="flex justify-center items-center flex-1 h-32 rounded-full bg-green-50">
             Image Here
           </div>
@@ -46,7 +46,7 @@ const Grocery=() => {
           </div>
         </div>
         <div className="flex">
-          <div className="flex h-32 mx-2 w-24 flex-col">
+          <div className="flex h-32 mx-2 w-24 flex-col md:h-80 md:w-72">
             <div className="flex justify-center items-center flex-1 h-32 rounded-full bg-green-50">
               Image Here
             </div>
@@ -56,7 +56,7 @@ const Grocery=() => {
           </div>
         </div>
         <div className="flex">
-          <div className="flex h-32 mx-2 w-24 flex-col">
+          <div className="flex h-32 mx-2 w-24 flex-col md:h-80 md:w-72">
             <div className="flex justify-center items-center flex-1 h-32 rounded-full bg-green-50">
               Image here
             </div>
@@ -67,7 +67,7 @@ const Grocery=() => {
         </div>
       </div>
       <div className="flex justify-center items-center">
-        <div className="flex h-32 my-6 mx-2 w-24 flex-col">
+        <div className="flex h-32 my-6 mx-2 w-24 flex-col md:h-80 md:w-72">
           <div className="flex justify-center items-center flex-1 h-32 rounded-full bg-green-50">
             Image Here
           </div>
@@ -76,7 +76,7 @@ const Grocery=() => {
           </div>
         </div>
         <div className="flex">
-          <div className="flex h-32 mx-2 w-24 flex-col">
+          <div className="flex h-32 mx-2 w-24 flex-col md:h-80 md:w-72">
             <div className="flex justify-center items-center flex-1 h-32 rounded-full bg-green-50">
               Image Here
             </div>

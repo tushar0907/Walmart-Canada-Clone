@@ -1,13 +1,13 @@
 import React from "react";
 
-const UpperProducts = () => {
+const UpperProducts=() => {
   return (
     <div className="flex bg-[#ffffff] flex-col">
       <div className="flex font-medium text-2xl my-7 justify-center items-center">
         BBQ MVPs
       </div>
-      <div className="flex my-6">
-        <div className="flex justify-center  mx-2 h-52 flex-1 flex-col">
+      <div className="flex my-6 md:w-11/12 md:mx-6">
+        <div className="flex justify-center  mx-2 h-52 flex-1 flex-col md:h-80">
           <div className="flex bg-green-100 text-lg flex-1 items-center justify-center">
             IMAGE HERE
           </div>
@@ -15,7 +15,7 @@ const UpperProducts = () => {
             Steak,Chicken &amp; ribs
           </div>
         </div>
-        <div className="flex flex-1 flex-col  justify-center  mx-2 h-52">
+        <div className="flex flex-1 flex-col  justify-center  mx-2 h-52 md:h-80">
           <div className="flex bg-green-100 flex-1 items-center justify-center">
             IMAGE HERE
           </div>
@@ -24,8 +24,8 @@ const UpperProducts = () => {
           </div>
         </div>
       </div>
-      <div className="flex my-6 h-60">
-        <div className="flex flex-1 flex-col  justify-center  mx-2 h-52">
+      <div className="flex my-6 h-60 md:h-80 md:w-11/12 md:mx-7">
+        <div className="flex flex-1 flex-col  justify-center  mx-2 h-52 md:h-80">
           <div className="flex bg-green-100 flex-1 items-center justify-center">
             IMAGE HERE
           </div>
@@ -33,7 +33,7 @@ const UpperProducts = () => {
             Burgers,Hotdogs &amp; Sausages
           </div>
         </div>
-        <div className="flex flex-1 flex-col  justify-center  mx-2 h-52">
+        <div className="flex flex-1 flex-col  justify-center  mx-2 h-52 md:h-80">
           <div className="flex bg-green-100 flex-1 items-center justify-center">
             IMAGE HERE
           </div>

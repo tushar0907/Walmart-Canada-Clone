@@ -12,7 +12,7 @@ import PrimaryProducts from "../Pages/home/PrimaryProducts";
 
 const local=() => {
   return (
-    <div>
+    <div className="flex flex-col overflow-hidden">
       <MenuArea />
       <Banner />
       <PrimaryProducts />

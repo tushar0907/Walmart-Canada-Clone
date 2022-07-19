@@ -1,8 +1,8 @@
 import React from "react";
 
-const Banner = () => {
+const Banner=() => {
   return (
-    <div className="flex flex-col h-96 justify-center items-center w-auto bg-blue-50">
+    <div className="flex flex-col h-96 justify-center items-center w-auto bg-blue-50 overflow-x-hidden">
       <div className="flex flex-1 w-80 mt-6 items-center justify-center">
         DISPLAY IMAGE HERE
       </div>
